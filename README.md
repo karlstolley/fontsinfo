@@ -4,7 +4,7 @@ There is a [demo](http://code.thisarmy.com/fontsinfo/) on GitHub pages.
 
 # Dependencies
 
-Before you start you'll have to clone the [google font directory](https://code.google.com/p/googlefontdirectory/).
+Before you start you'll have to clone the [google font directory](https://github.com/google/fonts/).
 
 I had lots of trouble getting it to work due to the size, so I ended up cloning it to a VM somewhere in the first world and then rsyncing it. After that `hg up` works fine.
 
